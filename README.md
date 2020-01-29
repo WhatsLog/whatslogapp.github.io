@@ -1,1 +1,3 @@
-# WhatsLogApp
+# WhatsLog
+
+## Application for ios
