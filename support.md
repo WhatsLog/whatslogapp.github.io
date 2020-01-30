@@ -1,3 +1,4 @@
 ## Support
 
-For all contacts, please write to [WhatsLogSupport](http://t.me/WhatsLogSupport)
+For all contacts, please write to pavelkirov@protonmail.com 
+
